@@ -1,0 +1,20 @@
+ {
+    "name": "my_package",
+    "description": "",
+    "version": "1.0.0",
+    "main": "index.php",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/robertojacome/ejemplo"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://https://github.com/robertojacome/ejemplo"
+    },
+    "homepage": "https://https://github.com/robertojacome/ejemplo"
+  }
