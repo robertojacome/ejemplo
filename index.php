@@ -1,5 +1,10 @@
+<!DOCTYPE html>
 <html>
-<head></head>
+<body>
 
-<body>hola mundo</body>
+<?php
+echo "My first PHP script!";
+?>
+
+</body>
 </html>
